@@ -1,3 +1,3 @@
-FROM alpine:edge
+FROM alpine:latest
 
 CMD echo "Hello FROM alpine"
